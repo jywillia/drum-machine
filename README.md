@@ -1,3 +1,7 @@
+# React powered Drum Machine
+
+This project was built to fulfill the Front End Library Certification from [FreeCodeCamp](https://freecodecamp.org).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
